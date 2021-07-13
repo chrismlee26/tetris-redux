@@ -9,6 +9,7 @@ export default function NextBlock(props) {
   const nextShape = useSelector((state) => state.game.nextShape)
 
   const box = shapes[nextShape][0] // Get the first rotation
+  
   // const box = [[0,0,0,0], [0,0,0,0], [0,0,0,0], [0,0,0,0]]
   
   // Map the block to the grid

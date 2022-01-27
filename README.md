@@ -1,14 +1,16 @@
 # Tetris!
 
 - Everyone's favourite since 1984. Now in Redux!
+- Soon to be a desktop app with Electron
 
 ## Dependencies
 
 ```
-npm install
+yarn install
 ```
 
-to install necessary dependencies
+## Run
 
-- react + redux
--
+```
+yarn start
+```

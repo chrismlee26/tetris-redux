@@ -14,3 +14,15 @@ yarn install
 ```
 yarn start
 ```
+
+## Run Electron App
+
+```
+yarn electron-dev
+```
+
+## Build Electron Applicaiton
+
+```
+yarn electron-pack
+```
